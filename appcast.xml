@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Application</title>
+        <description>Most recent changes with links to updates</description>
+        <language>en</language>
+        <item>
+            <title>Application 1.0.1.0</title>
+            <pubDate>Fri, 23 Feb 2024 10:47:31 +08:00</pubDate>
+            <sparkle:version>1.0.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <enclosure url="JingYiYanJing-1.0.1.exe" sparkle:version="1.0.1.0"
+                sparkle:shortVersionString="1.0.1" length="5743675" sparkle:os="windows"
+                type="application/octet-stream" sparkle:criticalUpdate="false"
+                sparkle:signature="IBG0mqdfFP8ePsu3FaJST5Xtx1QT36cHCibNpcjDcwqBlD70dWEBr8jKYsEk+qjyEkL7TjeFgprF+wCmopN/CA==" />
+        </item>
+    </channel>
+</rss>
